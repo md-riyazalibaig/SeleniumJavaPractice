@@ -1,0 +1,8 @@
+.classpath
+.project
+.settings/
+/target/
+/test-output/
+/reports/
+/log4j2/
+log4j2-*.log
